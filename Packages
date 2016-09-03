@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Muhammet Ilendemli <ilendemli@ilendemli.com>
 Depends:
 Filename: debs//info.ilendemli.trustme.deb
-Size: <deb in bytes>
+Size: 3222
 MD5sum: 45d12d73b6acb29af43399d9c7151c76
 SHA1: bbdf28a59b166234d1ac5dc241d29dec98a9f437
 SHA256: 63e14e3b3504c1d1ace332ce8ab63875b8d088aa8bc7c27e828aede6acbedecd
