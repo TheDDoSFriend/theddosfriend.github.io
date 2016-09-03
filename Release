@@ -1,0 +1,9 @@
+Origin: TheDDoSFriend's Repo
+Label: TheDDoSFriend's Repo
+Suite: stable
+Version: 1.0
+Codename: DDoSRepo
+Architectures: iphoneos-arm
+Components: main
+Description: TheDDoSFriend's Repo
+MD5Sum:
