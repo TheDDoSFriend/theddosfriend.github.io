@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='UTF-8'>
+        <title></title>
+        <script src="../lib/visibility.fallback.js"></script>
+        <script src="../lib/visibility.core.js"></script>
+        <script src="../lib/visibility.timers.js"></script>
+    </head>
+    <body>
+        <h1>1</h1>
+        <p>2 <strong id="support"></strong>.</p>
+        <p><strong id="counter"></strong> sec.</p>
+        <script>
+			window.addEventListener('blur', () => {
+				document.title = "OH";
+			});
+			window.addEventListener('focus', () => {
+				document.title = "FOCUSL";
+			});
+			
+			window.addEventListener('mouseleave', () => {
+				document.title = "OHH";
+			});
+        </script>
+    </body>
+</html>
